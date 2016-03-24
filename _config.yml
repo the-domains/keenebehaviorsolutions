@@ -1,0 +1,28 @@
+name: KeeneBehaviorSolutions
+favicon: null
+layout_spectrum: 0.3851899995934218
+typography_spectrum: 0.7882695638108999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.596807167166844
+  lightness: 0.5525635534431785
+  saturation: 0.6635843887925148
+  rhythmicContrast: 0.3951787876430899
+purpose: []
