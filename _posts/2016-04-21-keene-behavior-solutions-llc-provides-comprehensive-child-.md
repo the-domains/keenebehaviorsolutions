@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Keene Behavior Solutions, LLC provides comprehensive, child-centered behavior intervention in the Upper Valley of VT/NH. Services include assessment, family and staff training, program development, and direct service in schools, homes, and community settings. KBS also offers remote teleconsultation through the use of Skype, Google hangouts, or Facetime technologies. '
-datePublished: '2016-04-21T17:19:26.100Z'
-dateModified: '2016-04-21T16:25:51.913Z'
+datePublished: '2016-04-21T17:19:50.953Z'
+dateModified: '2016-04-21T17:19:33.532Z'
 title: ''
 author: []
 authors: []
