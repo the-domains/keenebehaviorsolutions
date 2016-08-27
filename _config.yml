@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Chris Keene
+  email: chris.s.keene@gmail.com
 name: 'Keene Perspectives, LLC.'
 cta:
   domain: null
